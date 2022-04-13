@@ -12,4 +12,6 @@ chflags nohidden ~/Downloads/*
 sleep 0.2
 chflags nohidden /Applications/*
 sleep 0.2
+killall Dock
+sleep 0.2
 echo "All your files should be back now."
