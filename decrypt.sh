@@ -1,6 +1,6 @@
 echo "YOU GOT PRANKED!"
 sleep 0.5
-echo "Your files aren't gone, they are just hidden.
+echo "Your files aren't gone, they are just hidden."
 sleep 0.5
 echo "Unhiding them now..."
 sleep 0.2
