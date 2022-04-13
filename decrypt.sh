@@ -14,4 +14,8 @@ chflags nohidden /Applications/*
 sleep 0.2
 killall Dock
 sleep 0.2
+echo "Cleaning up files the prank created..."
+rm /usr/local/bin/decryptfiles
+rm ~/Desktop/READ\ ME.txt
+sleep 0.2
 echo "All your files should be back now."
